@@ -19,6 +19,9 @@
             int sommaItemArray = sommaElementiArray(numeri);
             Console.WriteLine("Somma Array:" + sommaItemArray);
 
+            int sommaArrayQuadrato = sommaElementiArray(arrayQuadrato);
+            Console.WriteLine("la somma degli item dell'array al quadrato è " + sommaArrayQuadrato);
+
 
             
 
